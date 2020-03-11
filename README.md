@@ -1,4 +1,3 @@
-# This directory showcases python scripts that I wrote for two projects. 
 
 1. **/ngs_growthRate_dataAnalysis** describes my computational workflow for analyzing high-throughput next-generation sequencing data I collected from experiments. 
 
