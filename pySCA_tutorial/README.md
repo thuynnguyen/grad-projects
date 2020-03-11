@@ -2,11 +2,13 @@
 
 **See https://ranganathanlab.gitlab.io/pySCA/ for instructions on how to install pySCA.**
 
-pySCA relies on a number of dependencies in order to run. For the purpose of this portfolio, this directory contains only an HTML version of the Jupyter Notebook that can is rendered here:
+pySCA relies on a number of dependencies in order to run. For the purpose of this portfolio, this directory contains only HTML versions of the Jupyter Notebook.
+
+
+### In part I:
 
     https://htmlpreview.github.io/?https://github.com/thuynnguyen/grad-projects/blob/master/pySCA_tutorial/general_pySCA_usage_pt1.html. 
 
-### In part I:
 
 The Jupyter Notebook helps biologists that are novices in computer science run the core scripts that execute the calculations of SCA on a multiple sequence alignment (MSA) for a protein of interest, all without using the command line. An MSA is a plain text file (e.g. FASTA) containing the amino acid sequences of a single protein from different species. In this tutorial, I am using an MSA containing sequences of the protein, Dihydrofolate Reductase, from thousands of species.
 
@@ -14,9 +16,9 @@ After executing the core python scripts to analyze the MSA, the notebook then he
 
 ### In part II
 
-In the second notebook, rendered here, I guide the user through how to define the positions in the protein that are co-evolving from the spectral decomposition of the matrix of pair-wise positional correlations. I show how phylogenetic and functional annotations can be used to highlight groups co-evolving pairs of sequences.  
-    
-    htmlpreviewlink 
+    http://htmlpreview.github.io/?https://github.com/thuynnguyen/grad-projects/blob/master/pySCA_tutorial/general_pySCA_usage_pt2.html 
+
+In the second notebook (see rendering in link above) I guide the user through how to define the positions in the protein that are co-evolving from the spectral decomposition of the matrix of pair-wise positional correlations. I show how phylogenetic and functional annotations can be used to highlight groups co-evolving pairs of sequences.  
     
 I used Markdown commentary in this tutorial to guide the user through the purpose, functions, and process of each pre-liminary pySCA script and step of the analysis.
 
