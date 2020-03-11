@@ -1,6 +1,6 @@
 # Analyzing Next-Generation Sequencing Data
 
-##### The PDF in this directory visually describes the computational workflow for analyzing the data I collected from experiments for my thesis project. 
+### The PDF in this directory visually describes the computational workflow for analyzing the data I collected from experiments for my thesis project. 
 
 **countingAlleles.py** is a python script that identifies and counts DHFR mutants in a given FASTA file (a plain text document with millions of DHFR DNA sequences). With this script, I was able to count 6,360 DHFR mutants at each time point (0, 4, 8, 12, 20, and 24 hours) sampled in an experiment that measuring effects of bacterial growth rate in a saturation mutagenesis library of DHFR in two TYMS backgrounds. 
 
